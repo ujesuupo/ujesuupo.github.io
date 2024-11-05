@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ujesuupo.github.io/WMx/sitemap_index.txt
+Sitemap: https://ujesuupo.github.io/bWZ/sitemap_index.txt
+Sitemap: https://ujesuupo.github.io/mOJ/sitemap_index.txt
+Sitemap: https://ujesuupo.github.io/stD/sitemap_index.txt
